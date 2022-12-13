@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    line-height: 60px;
+    margin-bottom: 17px ;
+    color: #F2B410;
+    font-family: 'Tangerine', cursive;
+
+}
+
+h2{
+    font-weight: bold;
+    color: #252525;
+    text-transform: uppercase;
+    font-size: 42px;
+    line-height: 50px;
+    margin-left: 39%;
+}
+
+
+img{
+    margin-left: 15%;
+    margin-top: 40px;
+    display: inline-block;
+    position: relative;
+    height: 400px;
+    width: 500px;
+
+
+}
+
+p{
+    margin-top: 13%;
+    margin-right: 15%;
+}
+
+body{
+    background-color: #f1f1bf;
+}

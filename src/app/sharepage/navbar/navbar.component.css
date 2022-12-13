@@ -1,0 +1,45 @@
+.navbar-brand{
+    margin-left: 3%;
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    color: #f1d586;
+}
+
+.navbar-light .navbar-nav .nav-link
+{
+    color: var(--secondary-color);
+    
+}
+.navbar-light .navbar-nav .nav-link.active-link
+{
+   
+    background-color: #F2B410;
+    border-radius: 22px;
+    font-weight: bold;
+    font-size:18px;
+    padding: auto;
+}
+.nav-link.active-link{
+    background-color: #ebb216;
+    border-radius: 22px;
+    font-weight: bold;
+    margin: 5px ;
+    padding: auto;
+}
+
+.navbarNav{
+    margin-right: 35%;
+}
+
+.nav-link{
+    font-weight: bold;
+    margin: 5px ;
+}
+
+.nav-link:hover{
+    background-color: #d3a62c;
+    border-radius: 22px;
+    font-weight: bold;
+    margin: 5px ;
+    padding: auto;
+}
